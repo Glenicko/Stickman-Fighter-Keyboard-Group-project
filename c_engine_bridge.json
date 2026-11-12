@@ -1,0 +1,10 @@
+{
+  "engineStatus": "ONLINE",
+  "cMemoryPointer": "00000240877476A0",
+  "playerMaxHp": 100,
+  "enemyMaxHp": 100,
+  "hitboxRangePx": 120,
+  "baseStrikeDamage": 16,
+  "critMultiplier": 1.50,
+  "generatedAt": 1794487756
+}
